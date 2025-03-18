@@ -1,10 +1,10 @@
 ## Hello there!!👋
 
-I'm Ricardo Farias, programming student for the last two years,<br>
+I'm Ricardo Farias, programming student,<br>
 seeking for my first job as Jr. software developer. 
 
-I’m currently studying front-end development, but I also studied<br>
-back-end development, some of my projects uses back-end approaches.
+I’m currently studying fullstack development and learning about some languages, <br>
+here you find out some of my projects that uses distinct languages.
 
 <div align="center">
   <a href="https://github.com/ricardo3113">
